@@ -1,0 +1,34 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6DC29067-0CB6-4016-882D-B6EF86433871/f:Skill.cpp" caret="0" fromTop="0" />
+      <File id="6DC29067-0CB6-4016-882D-B6EF86433871/f:Skill.h" caret="0" fromTop="0" />
+      <File id="6DC29067-0CB6-4016-882D-B6EF86433871/f:SkillTree.h" caret="882" fromTop="18" />
+      <File id="6DC29067-0CB6-4016-882D-B6EF86433871/f:SkillTree.cpp" caret="4070" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6DC29067-0CB6-4016-882D-B6EF86433871/f:SkillTree.cpp" caret="3812" fromTop="12" />
+      <File id="6DC29067-0CB6-4016-882D-B6EF86433871/f:SkillTree.h" caret="882" fromTop="18" />
+      <File id="6DC29067-0CB6-4016-882D-B6EF86433871/f:SkillTree.cpp" caret="3885" fromTop="16" />
+      <File id="6DC29067-0CB6-4016-882D-B6EF86433871/f:SkillTree.cpp" caret="4065" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
